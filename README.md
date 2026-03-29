@@ -19,7 +19,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=ajayyadavexpo&style=flat-square&color=blue" alt=""/>
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Ajay Yadav (Full Stack Developer)
+    Marjan Bhuiyan (Full Stack Developer)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -30,7 +30,7 @@
 
 ### Hi there 👋,
 <p align="justify">
-  <samp>I'm <b>Ajay Yadav</b> - a Full Stack Developer, Tech Enthusiast, and Software Architect from Delhi, India. I mostly deal with web development with HTML5/CSS/Javascript, Bootstrap, Jquery, Laravel, Vuejs, React, Flask, Django, and Python, software development stack in these days. I have 7+ years of development experience in architecting, designing,  developing, and implementing web applications, using Laravel and Web technologies.
+  <samp>I'm <b>Marjan Bhuiyan</b> - a Full Stack Developer, Tech Enthusiast, and Software Architect from Dhaka, Bangladesh. I mostly deal with web development with HTML5/CSS/Javascript, Bootstrap, Jquery, Laravel, Vuejs, React, Flask, Django, and Python, software development stack in these days. I have 2+ years of development experience in architecting, designing,  developing, and implementing web applications, using Laravel and Web technologies.
   </samp>
   <br/>
 </p>
